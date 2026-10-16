@@ -1,16 +1,18 @@
-## Hi there 👋
+███╗   ██╗███████╗ ██████╗  ██████╗ ██████╗ ██████╗ ████████╗███████╗██╗  ██╗
+████╗  ██║██╔════╝██╔═══██╗██╔════╝██╔═══██╗██╔══██╗╚══██╔══╝██╔════╝╚██╗██╔╝
+██╔██╗ ██║█████╗  ██║   ██║██║     ██║   ██║██████╔╝   ██║   █████╗   ╚███╔╝
+██║╚██╗██║██╔══╝  ██║   ██║██║     ██║   ██║██╔══██╗   ██║   ██╔══╝   ██╔██╗
+██║ ╚████║███████╗╚██████╔╝╚██████╗╚██████╔╝██║  ██║   ██║   ███████╗██╔╝ ██╗
+╚═╝  ╚═══╝╚══════╝ ╚═════╝  ╚═════╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
 
-<!--
-**dream-reaper111/dream-reaper111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                         [ V3 // PRE-ALPHA ]
 
-Here are some ideas to get you started:
+        AI  ::  CYBERSECURITY  ::  QUANT  ::  AUTOMATION  ::  RESEARCH
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+              > persistent systems
+              > adaptive intelligence
+              > controlled risk
+              > unconventional engineering
+  <img width="3840" height="2160" alt="lb-cmp-untitled-8tqs01ddb" src="https://github.com/user-attachments/assets/f28b390c-ba19-49ba-bf81-1dad59aac4a1" />
+
+  <img width="384" height="384" alt="giphy" src="https://github.com/user-attachments/assets/0ea58671-1534-4550-8a78-c28e63dc6fa1" />
