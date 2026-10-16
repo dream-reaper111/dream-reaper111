@@ -1,9 +1,35 @@
-███╗   ██╗███████╗ ██████╗  ██████╗ ██████╗ ██████╗ ████████╗███████╗██╗  ██╗
-████╗  ██║██╔════╝██╔═══██╗██╔════╝██╔═══██╗██╔══██╗╚══██╔══╝██╔════╝╚██╗██╔╝
-██╔██╗ ██║█████╗  ██║   ██║██║     ██║   ██║██████╔╝   ██║   █████╗   ╚███╔╝
-██║╚██╗██║██╔══╝  ██║   ██║██║     ██║   ██║██╔══██╗   ██║   ██╔══╝   ██╔██╗
-██║ ╚████║███████╗╚██████╔╝╚██████╗╚██████╔╝██║  ██║   ██║   ███████╗██╔╝ ██╗
-╚═╝  ╚═══╝╚══════╝ ╚═════╝  ╚═════╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
+'''
+                    .ed"""" """$$$$be.
+                  -"           ^""**$$$e.
+                ."                   '$$$c
+               /                      "4$$b
+              d  3                      $$$$
+              $  *                   .$$$$$$
+             .$  ^c           $$$$$e$$$$$$$$.
+             d$L  4.         4$$$$$$$$$$$$$$b
+             $$$$b ^ceeeee.  4$$ECL.F*$$$$$$$
+ e$""=.      $$$$P d$$$$F $ $$$$$$$$$- $$$$$$
+z$$b. ^c     3$$$F "$$$$b   $"$$$$$$$  $$$$*"
+4$$$$L   \     $$P"  "$$b   .$ $$$$$...e$$
+^*$$$$$c  %..   *c    ..    $$ 3$$$$$$$$$
+  "**$$$ec   "\   %ce""    $$$  $$$$$$$$$
+        "*$b.  "c  *$e.    *** d$$$$$"
+          ^*$$c ^$c $$$      4J$$$$$
+             "$$$$$$"'$=e....$*$$$"
+               "*$$$  *=%4.$ L L$P
+                  "$   "%*ebJLzb$e
+                    %..      4$$$$
+                     $$$e   z$$$$$
+                      "*$c  "$$$"
+                       ."""*$$$bc
+                    .-"    .$***$"""*e.
+                 .-"    .e$"     "*$c  ^*b.
+          .=*""""    .e$*"          "*bc  "*$e..
+        .$"        .z*"               ^*$e.   "*****e.
+        $$ee$c   .d"                     "*$.        3.
+        ^*$E")$..$"                         *   .ee==d%
+           $.d$$$*                           *  J$$$e*
+            """""                             "$$$"
 
                          [ V3 // PRE-ALPHA ]
 
@@ -13,8 +39,14 @@
               > adaptive intelligence
               > controlled risk
               > unconventional engineering
-
-  <img width="3840" height="2160" alt="lb-cmp-untitled-8tqs01ddb" src="https://github.com/user-attachments/assets/f28b390c-ba19-49ba-bf81-1dad59aac4a1" />
+DeadByte.dll
+Cybersecurity researcher, AI/quant builder, drone nerd, RF tinkerer, hardware addict, trader, and engineer of questionable late-night ideas. I’m drawn to systems that are complex, adversarial, fast, and unforgiving — networks, markets, autonomous agents, drones, vehicle platforms, embedded systems, infrastructure, and anything else that rewards understanding the edge cases instead of ignoring them.
+My work and interests usually live at the intersection of cybersecurity, artificial intelligence, quantitative research, automation, drones, RF systems, hardware experimentation, ballistics engineering, and machine-driven decision systems. I like building things from the ground up, stress-testing them, breaking assumptions, studying failure points, and rebuilding them into something sharper, more resilient, and more intelligent.
+I’m currently building NeoCortex, a persistent market-intelligence and risk platform focused on AI, quant research, historical-state modeling, automation, autonomous/semi-autonomous workflows, risk governance, and experimental hybrid classical/quantum research. A lot of my thinking revolves around how systems learn, adapt, fail, recover, and make decisions under uncertainty.
+Outside of software, I’m into drones, vehicle engineering, fabrication, ballistics engineering, firearms technology, hardware systems, and anything with telemetry, moving parts, recoil, heat, signal flow, or an attack surface. If it flies, rolls, transmits, predicts, breaks, or can be optimized, I’m probably interested in it.
+My general philosophy is simple:
+Build it. Stress it. Break it. Learn from it. Rebuild it better.
+ <img width="3840" height="2160" alt="lb-cmp-untitled-8tqs01ddb" src="https://github.com/user-attachments/assets/f28b390c-ba19-49ba-bf81-1dad59aac4a1" />
 
   <img width="384" height="384" alt="giphy" src="https://github.com/user-attachments/assets/0ea58671-1534-4550-8a78-c28e63dc6fa1" />
     <img width="480" height="265" alt="giphy1" src="https://github.com/user-attachments/assets/34c35563-7d86-4a27-a90e-e73bab790e9c" />
